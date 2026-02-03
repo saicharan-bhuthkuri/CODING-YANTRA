@@ -115,8 +115,8 @@
             <div class="info-col">
                 <!-- Map Card -->
                 <div class="map-card shadow-card">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15224.99684703698!2d78.548!3d17.400!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0!2zMTdswrAyNCc1My4wIk4gNjjCsDMzJzAxLjgiRQ!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin" 
-                        width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3807.2702242794485!2d78.55897637462722!3d17.39881480247681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9f267b977e5f%3A0x4eabaf1505b3da38!2sRobotics%20training%20Institute%20_%20Coding%20Yantra%20Learning%20Solutions%20%7C%7C%20Coding%20classes%20%7C%7C%20Robotics%20%7C%7C%20Drones%20%7C%7C%203D%20Printing!5e0!3m2!1sen!2sin!4v1770138037236!5m2!1sen!2sin" 
+                        width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     <div class="map-actions">
                         <a href="https://goo.gl/maps/placeholder" target="_blank" class="btn-map">
                             <i class="fa-solid fa-directions"></i> Get Directions
