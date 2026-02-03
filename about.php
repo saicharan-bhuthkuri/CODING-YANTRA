@@ -26,11 +26,10 @@
                 </div>
             </div>
             <div class="col-img" style="flex: 1;">
-                <!-- Placeholder for Founder Image -->
-                <div style="background: #e2e8f0; height: 400px; border-radius: 20px; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-                    <i class="fa-solid fa-user-tie" style="font-size: 5rem; color: #cbd5e1;"></i>
+                <!-- Founder Image -->
+                <div style="height: 400px; border-radius: 20px; overflow: hidden; box-shadow: var(--shadow-lg);">
+                    <img src="assets/images/praveen-ollala.png" alt="Praveen Ollala" style="width: 100%; height: 100%; object-fit: cover;">
                 </div>
-                <!-- Since I don't have the real image, this is a placeholder structure -->
             </div>
         </div>
     </div>

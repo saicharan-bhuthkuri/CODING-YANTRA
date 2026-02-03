@@ -20,7 +20,7 @@
     <div class="container">
         <nav class="navbar">
             <a href="index.php" class="logo">
-                <i class="fa-solid fa-microchip"></i>
+                <img src="assets/images/logo.png" alt="Coding Yantra" class="logo-img">
                 Coding <span>Yantra</span>
             </a>
             
